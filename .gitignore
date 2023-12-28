@@ -1,0 +1,5 @@
+# Archivos a ignorar por git
+*.env
+*.exe
+*.tmp
+*.zip
